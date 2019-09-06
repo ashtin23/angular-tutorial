@@ -1,5 +1,5 @@
 # Teach Yourself
-For this project, I decided to teach myself AngularJS. 
+For this project, I decided to teach myself AngularJS. I worked in StackBlitz, a controlled environment, to begin creating my first app in AngularJS. The application is an oline store that currently has three different types of phones in its inventory. Each product includes a description, and also will redirect you to a product page if you click on the title. They also include buttons to share, which currently only function to provide an alert, as well as a button that notifies the user if a product above a certain price goes on sale. Each component currently has working routers. 
 
 ## View application
 https://angular-h7fhuq.stackblitz.io/
