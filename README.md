@@ -1,7 +1,7 @@
 # Teach Yourself
 For this project, I decided to teach myself AngularJS. 
 
-##View application
+## View application
 https://angular-h7fhuq.stackblitz.io/
 
 ## Why AngularJS?
