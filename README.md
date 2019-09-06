@@ -1,6 +1,8 @@
 # Teach Yourself
 
 For this project, I decided to teach myself AngularJS. 
+View the application here:
+    - https://angular-h7fhuq.stackblitz.io/
 
 ## Why AngularJS?
 After perusing through mountains of job postings, I noticed a common trend: companies
